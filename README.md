@@ -69,6 +69,10 @@ complete homogeneity of personalities would benefit anyone.
 Finally the last attempt to justify power is to attack those that question that power.
 This was built on an attempt to discrediting or demonize me.
 
+![tweet](images/tweet.png)
+Unfortunately the tweet was deleted so I was unable to capture all the comments surrounding it.
+Thanks to Slack local cache I was able to acquire the above.
+
 A comment by me was taken out of context in a
 screenshot and posted by someone with power.  They were not only powerful because
 they were part of the group that makes the Kubecon decisions, but they had a large number
@@ -107,7 +111,7 @@ Some just want to advocate patterns where they hope to lead the market. One shou
 these commercial interests.  Those interests will always be willing to fill your ego, wallet
 and CV as long as you act as a proxy to their power and greed.
 
-If you take on the mantle of power, you must accept the responsibilities that come
+If you take on the mantle of power, you must accept the responsibilities that comes
 with it, to include dealing with people that do not like what you do with that power. If anyone ever
 expresses to you "you screwed me over", that usually indicates they believe you have power over them.
 Step back and ask yourself if you do.  If 10 people tell you that around the same time, you most
